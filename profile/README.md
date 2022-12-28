@@ -1,9 +1,8 @@
-## Hi there 👋
+## Welcome 👋
 
 <!--
 
 **Here are some ideas to get you started:**
-![ss-banner](https://user-images.githubusercontent.com/78018794/209809139-44e85856-3fb3-4e3c-b4f0-d77ebe3c201e.png)
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
